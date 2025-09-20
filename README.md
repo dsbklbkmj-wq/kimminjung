@@ -1,5 +1,5 @@
 # kimminjung
-
+![Image](https://github.com/user-attachments/assets/609606e3-6754-4f0e-a6a2-ecca3c09b5cd)
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
