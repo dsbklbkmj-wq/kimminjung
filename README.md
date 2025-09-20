@@ -1,10 +1,11 @@
 # kimminjung
-![Image](https://github.com/user-attachments/assets/609606e3-6754-4f0e-a6a2-ecca3c09b5cd)
+
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>무작위 색상 생성기</title>
+    ![Image](https://github.com/user-attachments/assets/609606e3-6754-4f0e-a6a2-ecca3c09b5cd)
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
